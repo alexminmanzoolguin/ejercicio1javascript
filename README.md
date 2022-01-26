@@ -14,3 +14,6 @@ Muestra los numeros primos
 
 Muestra los numeros que son o no primos
 ![Image text](https://github.com/alexminmanzoolguin/ejercicio1javascript/blob/main/img/2022-01-26%20(2).png)
+
+Muestra la con estilos
+![Image text](https://github.com/alexminmanzoolguin/ejercicio1javascript/blob/main/img/2022-01-26%20(11).png)
