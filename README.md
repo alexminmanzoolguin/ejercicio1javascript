@@ -3,7 +3,7 @@
       
       
       
->Block quote      Dado un arreglo de números enteros, Imprimir solamente aquellos que
+>    Dado un arreglo de números enteros, Imprimir solamente aquellos que
        son denominados números primos, (usar arreglo denominado como
        "ejercicio1").
 
